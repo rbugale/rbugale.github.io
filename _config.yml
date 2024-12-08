@@ -3,5 +3,6 @@ theme: jekyll-theme-minimal
 
 ---
 ---
+url: https://reussitemalembaka.github.io
 
 @import "{{ site.theme }}";
